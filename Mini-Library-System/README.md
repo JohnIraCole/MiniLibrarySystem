@@ -34,57 +34,47 @@ The **Mini Library System** is a simple console-based Java application designed 
    - Open the folder containing your `.java` files (`Book.java` and `MiniLibrarySystem.java`) in VS Code.
 
 2. **Compile the Code**
-   - Open the terminal in VS Code (`Ctrl + `) or `View > Terminal`.
+   - Option 1: Open the terminal in VS Code (`Ctrl + `) or `View > Terminal`.
      
-   - Compile the Java files:
-     
-   - This will generate `Book.class` and `MiniLibrarySystem.class` files.
-
-3. **Run the Program**
-   - Run the main class:
+   - Option 2: On theh top right corner next to the "Run Code" click or hover the dropdown arrow and press "Run Java"
   
 # Screenshot Samples
 
 ## Step 1: Add Books
 Use the menu option **1** to add books. Enter Book ID, Title, and Author.
 
-*Add screenshot below:*
-![Add Books Screenshot](image/Step 1 - Add book1.png)
-![Add Books Screenshot](image/Step 1 - Add book2.png)
-![Add Books Screenshot](image/Step 1 - Add book3.png)
+![Add Books Screenshot](image/Add_book1.png)
+![Add Books Screenshot](image/Add_book2.png)
+![Add Books Screenshot](image/Add_book3.png)
 
 ---
 
 ## Step 2: Borrow Books
 Use the menu option **2** to borrow books. Enter Borrower Name and Book ID.
 
-*Add screenshot below:*
-![Borrow Books Screenshot](image/Step 1 - Borrow book1.png)
-![Borrow Books Screenshot](image/Step 1 - Borrow book2.png)
+![Borrow Books Screenshot](image/Borrow_book1.png)
+![Borrow Books Screenshot](image/Borrow_book2.png)
 
 ---
 
 ## Step 3: Return Books
 Use the menu option **3** to return books. Enter the Book ID.
 
-*Add screenshot below:*
-![Return Books Screenshot](image/Return book1.png)
-![Return Books Screenshot](image/Return book2.png)
+![Return Books Screenshot](image/Return_book1.png)
+![Return Books Screenshot](image/Return_book2.png)
 
 ---
 
 ## Step 4: Search Books
 Use the menu option **4** to search for books by Title or Author.
 
-*Add screenshot below:*
-![Search Books Screenshot](image/Search book3.png)
+![Search Books Screenshot](image/Search_book3.png)
 
 ---
 
 ## Step 5: Sort Books
 Use the menu option **5** to sort books by Title or Author.
 
-*Add screenshot below:*
 ![Sort Books Screenshot](image/Sort_books.png)
 
 ---
@@ -92,13 +82,11 @@ Use the menu option **5** to sort books by Title or Author.
 ## Step 6: Display All Books
 Use the menu option **6** to display all books in the library.
 
-*Add screenshot below:*
-![Display Books Screenshot](image/Display all books.png)
+![Display Books Screenshot](image/Display_books.png)
 
 ---
 
 ## Step 7: Exit
 Use the menu option **7** to exit the program.
 
-*Add screenshot below:*
 ![Exit Screenshot](image/Exit.png)
