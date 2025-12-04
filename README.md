@@ -34,14 +34,9 @@ The **Mini Library System** is a simple console-based Java application designed 
    - Open the folder containing your `.java` files (`Book.java` and `MiniLibrarySystem.java`) in VS Code.
 
 2. **Compile the Code**
-   - Open the terminal in VS Code (`Ctrl + `) or `View > Terminal`.
+   - Option 1: Open the terminal in VS Code (`Ctrl + `) or `View > Terminal`.
      
-   - Compile the Java files:
-     
-   - This will generate `Book.class` and `MiniLibrarySystem.class` files.
-
-3. **Run the Program**
-   - Run the main class:
+   - Option 2: On theh top right corner next to the "Run Code" click or hover the dropdown arrow and press "Run Java"
   
 # Screenshot Samples
 
@@ -93,5 +88,6 @@ Use the menu option **6** to display all books in the library.
 
 ## Step 7: Exit
 Use the menu option **7** to exit the program.
+
 
 ![Exit Screenshot](image/Exit.png)
